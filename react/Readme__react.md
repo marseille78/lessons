@@ -2,9 +2,9 @@
 
 * Installation
   * [Try React](installation/try_react.md)
-  * [Add React to a New App](add_react_to_a_new_app.md)
-  * [Add React to an Existing App](add_react_to_an_existing_app.md)
-  * [CDN Links](cdn_links.md)
+  * [Add React to a New App](installation/add_react_to_a_new_app.md)
+  * [Add React to an Existing App](installation/add_react_to_an_existing_app.md)
+  * [CDN Links](installation/cdn_links.md)
 * Quick start
   * Hello World
   * Introducing JSX
