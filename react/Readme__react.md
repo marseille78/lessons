@@ -1,10 +1,10 @@
 # [React (v16.3.2)](https://reactjs.org/)
 
-* Installation
-  * [Try React](installation/try_react.md)
-  * [Add React to a New App](installation/add_react_to_a_new_app.md)
-  * [Add React to an Existing App](installation/add_react_to_an_existing_app.md)
-  * [CDN Links](installation/cdn_links.md)
+* **Установка**
+  * [Пробуем React](installation/try_react.md)
+  * [Добавляем React в новое приложение](installation/add_react_to_a_new_app.md)
+  * [Добавляем React в существующее приложение](installation/add_react_to_an_existing_app.md)
+  * [CDN ссылки](installation/cdn_links.md)
 * Quick start
   * Hello World
   * Introducing JSX
