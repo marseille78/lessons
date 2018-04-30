@@ -1,5 +1,7 @@
 # [API Instagram (July 31, 2018)](https://www.instagram.com/developer/)
 
+([Документации](../../Readme.md)/[API](../Readme__api.md))
+
 * [Обзор](insta__overview.md)
 * [Аутентификация](insta__authentication.md)
 * [Вход в систему](insta__login_permissions.md)
