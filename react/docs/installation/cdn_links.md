@@ -2,6 +2,8 @@
 
 ([Документации](../../../Readme.md)/[React.JS](../../Readme__react.md)/[React документация](../../docs.md)/[Установка](../installation.md))
 
+***
+
 *UMD-сборки React и ReactDOM доступны через CDN.*
 
 ```javascript

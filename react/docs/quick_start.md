@@ -2,7 +2,7 @@
 
 ([Документации](../../Readme.md)/[React.JS](../Readme__react.md)/[React документация](../docs.md))
 
-* Hello World
+* [Hello World](quick_start/hello_world.md)
 * Introducing JSX
 * Rendering Elements
 * Components and Props
