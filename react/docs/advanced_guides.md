@@ -7,8 +7,8 @@
 * Static Type Checking
 * Refs and the DOM
 * Uncontrolled Components
-* Optimizing Performance
-* React Without ES6
+* [Оптимизация производительности](advanced_guides/optimizing_performance.md)
+* [React без ES6](advanced_guides/react_without_es6.md)
 * [React без JSX](advanced_guides/react_without_jsk.md)
 * Reconciliation
 * Context
@@ -19,7 +19,7 @@
 * Higher-Order Components
 * Forwarding Refs
 * Render Props
-* Integrating with Other Libraries
+* [Интеграция с другими библиотеками](advanced_guides/integrating_with_other_libraries.md)
 * Accessibility
 * Code-Splitting
 * Strict Mode

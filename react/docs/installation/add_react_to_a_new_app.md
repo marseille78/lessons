@@ -54,4 +54,4 @@ Create React App не обрабатывает логику или базы да
 
 ***
 
-[< Prev](try_react.md) - [Next>](add_react_to_an_existing_app.md)
+[< Prev](try_react.md) - [Next >](add_react_to_an_existing_app.md)
