@@ -3,41 +3,8 @@
 ([Документации](../Readme.md)/[React.JS](Readme__react.md))
 
 * [Установка](docs/installation.md)
-* Quick start
-  * Hello World
-  * Introducing JSX
-  * Rendering Elements
-  * Components and Props
-  * State and Lifecycle
-  * Handling Events
-  * Conditional Rendering
-  * Lists and Keys
-  * Forms
-  * Lifting State Up
-  * Composition vs Inheritance
-  * Thinking In React
-* Advanced guides
-  * JSX In Depth
-  * Typechecking With PropTypesPortals
-  * Static Type Checking
-  * Refs and the DOM
-  * Uncontrolled Components
-  * Optimizing Performance
-  * React Without ES6
-  * React Without JSX
-  * Reconciliation
-  * Context
-  * Fragments
-  * Portals
-  * Error Boundaries
-  * Web Components
-  * Higher-Order Components
-  * Forwarding Refs
-  * Render Props
-  * Integrating with Other Libraries
-  * Accessibility
-  * Code-Splitting
-  * Strict Mode
+* [Быстрый старт](docs/quick_start.md)
+* [Продвинутое руководство](docs/advanced_guides.md)
 * Reference
   * React
     * React.Component
