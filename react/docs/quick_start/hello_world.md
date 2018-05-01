@@ -27,4 +27,4 @@ React - это библиотека JavaScript, поэтому мы предпо
 
 ***
 
-[Next >]
+[Next >](introducing_jsx.md)
