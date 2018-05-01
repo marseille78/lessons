@@ -4,3 +4,5 @@
 
 * [Документация](docs.md)
 * [Учебник](tutorial.md)
+* [Сообщество](community.md)
+* [Блог](blog.md)
